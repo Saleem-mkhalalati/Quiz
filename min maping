@@ -1,0 +1,23 @@
+01 - craete Json Object Question*
+02 -start crating html + css*
+03 - Add Dummy data*
+04 - craete styling
+
+05 - fetch number of Questions frome Json Object
+06 - show Question count + Question category
+07 - show the number of bullets depend on
+08 - set the number from the right and wrong Answers
+09 - craete Timer
+10 - fetch the Question from Json Object
+11 - show first Question
+12 - check Answer and hid Question then show next one
+13 - if the timer end , the Question is wrong and show the next Question
+14 - Add class don after Answering
+15 - if Question finish show the result
+
+
+
+Ideas
+- many Json Object and choose subject
+- add many Question and choose only 10 randomly
+- randmize Answer( )
